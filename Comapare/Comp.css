@@ -8,7 +8,7 @@ body,html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
+  background-color: grey;
 
   background-size: cover;
   background-position: center;
@@ -34,7 +34,7 @@ body,html {
   font-family: 'Poppins', sans-serif;
 }
 body{
-  background-image: url(/Comapare/BG.png);
+  background-image: url("/Comapare/BG.jpg");
   min-height: 100vh;
 }
 nav{
@@ -480,8 +480,8 @@ nav .navbar .links li .sub-menu li{
   text-align: center;
 }
 .Build-sec p{
-  color: #f0f0f0;
-  font-weight: 300;
+  color: #E5E4E2;
+  font-weight: lighter;
   padding-top: 0.5vw;
 }
 
