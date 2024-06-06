@@ -8,7 +8,8 @@ body,html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(/Comapare/PC1.jpg);
+  
+
   background-size: cover;
   background-position: center;
   
@@ -33,7 +34,7 @@ body,html {
   font-family: 'Poppins', sans-serif;
 }
 body{
-  
+  background-image: url(/Comapare/BG.png);
   min-height: 100vh;
 }
 nav{
